@@ -1,2 +1,2 @@
 # projeto_site
-Site criado na aula de CSS da mentora Kai Pimenta no curso da Gama Academy - 2021
+Site criado na aula de CSS sob a mentoria de Kai Pimenta no curso da Gama Academy - 2021
